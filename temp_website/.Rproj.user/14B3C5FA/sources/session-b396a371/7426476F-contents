@@ -12,7 +12,10 @@ website:
         text: Home
       - href: oopproject.qmd
         text: OOP Project
-
+      - href: favouritemovie.qmd
+        text: Favourite Movie
+      - href: genai.qmd
+        text: Reflection on Gen AI
 format:
   html:
     theme: cosmo

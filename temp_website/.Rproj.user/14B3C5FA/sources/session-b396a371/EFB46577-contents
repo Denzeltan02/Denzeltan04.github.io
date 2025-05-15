@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "OOP Project"
 ---
 
 # About This Site
@@ -20,5 +20,3 @@ The game was built using core OOP principles such as:
 Players navigate through challenges where they must answer math questions under time pressure while avoiding in-game obstacles. The goal was to make learning fun and immersive through gamification.
 
 ```{r}
-# Just a demo calculation
-1 + 1

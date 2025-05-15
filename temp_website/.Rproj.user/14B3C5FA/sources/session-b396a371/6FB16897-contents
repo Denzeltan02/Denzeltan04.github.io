@@ -1,5 +1,5 @@
 ---
-title: "temp_website"
+title: "Denzel's Website"
 ---
 
 # Welcome to My Website 👋
@@ -9,5 +9,3 @@ This is a simple Quarto-powered website for showcasing R code, reports, or perso
 You can write content using **Markdown**, embed **live R code**, and publish your work as an interactive webpage.
 
 ```{r}
-# A simple calculation
-1 + 1
