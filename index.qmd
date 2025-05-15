@@ -2,10 +2,13 @@
 title: "Denzel's Website"
 ---
 
-# Welcome to My Website 👋
+# About Me
 
-This is a simple Quarto-powered website for showcasing R code, reports, or personal projects.
+Hi, I'm **[Your Name]** — a curious and creative individual with a passion for learning, building, and exploring new ideas. I'm currently studying [Your Course or Field], and I enjoy working on hands-on projects that blend technology with real-world impact.
 
-You can write content using **Markdown**, embed **live R code**, and publish your work as an interactive webpage.
+In my free time, I like discovering new tools, experimenting with design, and occasionally diving into code or content creation. This site is a space where I document my journey and share things I'm proud of.
+
+Thanks for stopping by!
+
 
 ```{r}
