@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Denzel’s Website",
     "section": "",
-    "text": "Welcome to My Website 👋\nThis is a simple Quarto-powered website for showcasing R code, reports, or personal projects.\nYou can write content using Markdown, embed live R code, and publish your work as an interactive webpage.\n\n\nA simple calculation\n1 + 1"
+    "text": "Hi, I’m Denzel — a curious and creative individual with a passion for learning, building, and exploring new ideas. I’m currently studying [Your Course or Field], and I enjoy working on hands-on projects that blend technology with real-world impact.\nIn my free time, I like discovering new tools, experimenting with design, and occasionally diving into code or content creation. This site is a space where I document my journey and share things I’m proud of.\nThanks for stopping by!\n\n\n\n\n\n\nCool Tech\n\n\n\n\n\n\n\n\n\n\n\n\n1 + 1"
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,40 @@
     "title": "temp_website",
     "section": "",
     "text": "Welcome to My Website 👋\nThis is a simple Quarto-powered website for showcasing R code, reports, or personal projects.\nYou can write content using Markdown, embed live R code, and publish your work as an interactive webpage.\n\n\nA simple calculation\n1 + 1"
+  },
+  {
+    "objectID": "index.html#heres-a-photo-of-something-i-like",
+    "href": "index.html#heres-a-photo-of-something-i-like",
+    "title": "Denzel’s Website",
+    "section": "",
+    "text": "Cool Tech"
+  },
+  {
+    "objectID": "index.html#just-for-fun",
+    "href": "index.html#just-for-fun",
+    "title": "Denzel’s Website",
+    "section": "",
+    "text": "1 + 1"
+  },
+  {
+    "objectID": "favouritemovie.html",
+    "href": "favouritemovie.html",
+    "title": "Top Gun: Maverick - Summary",
+    "section": "",
+    "text": "Top Gun: Maverick is a high-adrenaline action drama that takes place over 30 years after the events of the original 1986 Top Gun film.\n\n\n\nCaptain Pete “Maverick” Mitchell is back—but this time, he’s not flying missions, he’s training the next generation of elite Navy fighter pilots. Tasked with preparing them for a dangerous, near-impossible operation, Maverick faces his toughest challenge yet: balancing duty, legacy, and the ghosts of his past.\nAmong the pilots is Bradley “Rooster” Bradshaw, the son of Maverick’s late best friend and wingman, Goose. The strained"
+  },
+  {
+    "objectID": "favouritemovie.html#plot-summary",
+    "href": "favouritemovie.html#plot-summary",
+    "title": "Top Gun: Maverick - Summary",
+    "section": "",
+    "text": "Captain Pete “Maverick” Mitchell is back—but this time, he’s not flying missions, he’s training the next generation of elite Navy fighter pilots. Tasked with preparing them for a dangerous, near-impossible operation, Maverick faces his toughest challenge yet: balancing duty, legacy, and the ghosts of his past.\nAmong the pilots is Bradley “Rooster” Bradshaw, the son of Maverick’s late best friend and wingman, Goose. The strained"
+  },
+  {
+    "objectID": "genai.html",
+    "href": "genai.html",
+    "title": "Reflection on Generative AI",
+    "section": "",
+    "text": "Reflection on Generative AI\nGenerative AI has rapidly shifted from a futuristic concept to a tool embedded in our everyday lives. Its ability to generate human-like text, images, code, and even music has opened up exciting new possibilities in creativity, education, productivity, and problem-solving.\nAs someone exploring this space, I find generative AI both fascinating and complex. On one hand, it enhances creativity by helping us brainstorm ideas, summarize information, and automate tedious tasks. On the other hand, it raises important questions about authenticity, intellectual property, and the ethics of relying on machines to produce content that once came solely from human minds.\nThe most striking realization for me is that generative AI is not here to replace thinking—but to reshape it. It acts as a collaborator, pushing us to think more critically, ask better questions, and focus on what truly requires human judgment and empathy.\nAt the same time, this technology requires responsible use. As users and developers, we must be aware of biases in data, the spread of misinformation, and the potential impact on jobs and education. Learning how to use AI ethically and thoughtfully is just as important as learning how it works.\nIn the end, generative AI reflects both the brilliance and the responsibility of human innovation. It’s a powerful tool—but like any tool, its value depends on how we choose to use it."
   }
 ]

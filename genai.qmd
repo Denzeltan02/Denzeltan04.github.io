@@ -13,5 +13,5 @@ The most striking realization for me is that **generative AI is not here to repl
 
 At the same time, this technology requires responsible use. As users and developers, we must be aware of biases in data, the spread of misinformation, and the potential impact on jobs and education. Learning how to use AI ethically and thoughtfully is just as important as learning how it works.
 
-In the end, generative AI reflects both the brilliance and the responsibility of human innovation. It’s a powerful tool—but like any tool, its value depends on how we choose to use it.
+In the end, generative AI reflects both the brilliance and the responsibility of human innovation. It’s a powerful tool—but like any tool, its value depends on how we choose to use it. :)
 
