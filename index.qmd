@@ -5,7 +5,7 @@ format: html
 
 # About Me
 
-Hi, I'm **Denzel** — a curious and creative individual with a passion for learning, building, and exploring new ideas. I'm currently studying **[Your Course or Field]**, and I enjoy working on hands-on projects that blend technology with real-world impact.
+Hi, I'm **Denzel** — a curious and creative individual with a passion for learning, building, and exploring new ideas. I'm currently studying **AAI**, and I enjoy working on hands-on projects that blend technology with real-world impact.
 
 In my free time, I like discovering new tools, experimenting with design, and occasionally diving into code or content creation. This site is a space where I document my journey and share things I'm proud of.
 
@@ -24,8 +24,3 @@ Thanks for stopping by!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSqVVswa420" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
-
-## Just for Fun
-
-```{r}
-1 + 1
